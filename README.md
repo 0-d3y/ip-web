@@ -36,8 +36,7 @@ python  ip.py
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```python
-cpan install LWP::UserAgent
-cpan install HTTP::Request
+
 git clone https://github.com/mr-sami-x/ip-web.git
 cd ip-web
 python  ip.py 
@@ -46,7 +45,7 @@ python  ip.py
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```python
 Download Python
-Download Mass-windows
+
 Extract ip-web  into Desktop
 Open CMD and type the following commands:
 cd Desktop/ip-web/
